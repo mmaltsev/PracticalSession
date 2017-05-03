@@ -1,2 +1,2 @@
 # PracticalSession
-Practical Session Frontend in Recogizer Office
+Practical Session Frontend
